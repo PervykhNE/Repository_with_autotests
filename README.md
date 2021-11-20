@@ -1,2 +1,1 @@
-# Repository_with_autotests
-Репозиторий с заданиями с курса "Selenium WebDriver: полное руководство, РФ (3)"
+Примеры кода к тренингу http://software-testing.ru/trainings/schedule?task=3&cid=242
